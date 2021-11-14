@@ -1,5 +1,5 @@
 # Applying CSS
-This repo built for the [Kodluyoruz](https://www.kodluyoruz.org/) Front-End HTML education.
+This repo built for the [Kodluyoruz](https://www.kodluyoruz.org/) Front-End CSS education.
 
 ![screenshot](./github.png)
 
