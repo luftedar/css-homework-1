@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-center {
+  align-items: center;
+  justify-content: center;
+}
+
+.f-column {
+  flex-direction: column;
+}
+
+.mlr-15 {
+  margin: 0 15px;
+  list-style: none;
+}
+
+img {
+  width: 50%;
+}
